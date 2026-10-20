@@ -1,47 +1,158 @@
 ---
-title: "Riding Instructions"
+title: "Motorcycle Riding Guide for New and Experienced Riders"
 date: 2026-10-21
 ---
-# Honda CBR 600
+# Riding a motorcycle safely requires more than simply operating the controls. Good riders develop observation skills, hazard awareness, smooth machine control, and a commitment to continual learning.
 
 <p align="center">
-  <img alt="Honda CBR 600"
-       src="https://www.rokform.com/cdn/shop/articles/best-600cc-motorcycle.webp?v=1787673942&width=1024"
-       width="900">
+  <img alt="Honda CBR 480"
+       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRzSN16PWHQbVGilTtaAQXm5BIBTst5tVfiKfQIkBKg&s=10"
+       width="480">
 </p>
 
-## The All-Rounder Path: Honda CBR600F (Sport & Daily)
+## Perform Pre-Ride Safety Checks
 
-### If your rides involve real-world commuting, weekend trips, and comfort rather than chasing a 15,500 RPM redline, the CBR600F lineage is the historic sweet spot.
+### A simple five-minute inspection can prevent mechanical failures and improve safety.
+- Tyre pressures and tread depth
+- Front and rear brakes
+- Headlights, indicators, and brake lights
+- Engine oil level
+- Fuel level
+- Chain tension and lubrication
 
-- The Pick of the F-Series: CBR600F4i (2001–2006). This is widely considered the pinnacle of the line. It introduced reliable electronic fuel injection (replacing the carbs of the F4) while retaining a much more humane, upright riding position than any RR bike.
-- The Sport Alternative: CBR600F-Sport (2001–2002). Built as a homologation base for race teams, it features a split seat, stiffer double valve springs, and a lighter crank.
-- Key Strengths: Great wind protection, forgiving ergonomics, bulletproof Honda inline-four reliability.
-- What to Watch Out For: Cam chain tensioner (CCT) wear across older models, aging/corroded exhaust headers, and regulator/rectifier electrical gremlins.
+## Wear Appropriate Protective Equipment
 
-## Honda CBR600F Series Guide
+### Protective equipment is designed to reduce injuries in the event of a collision or fall.
 
-### Best All-Rounder: CBR600F4i (2001–2006)
+- Approved motorcycle helmet
+- Armoured jacket
+- Motorcycle gloves
+- Riding trousers
+- Motorcycle boots
 
-- Widely regarded as the best model in the F-Series.
-- Introduced reliable electronic fuel injection.
-- More comfortable and upright riding position than the CBR600RR.
+## Adopt the IPSGA System
 
-### Sportier Choice: CBR600F-Sport (2001–2002)
+### Advanced UK motorcycle training commonly uses the IPSGA system
 
-- Developed as a homologation model for racing.
-- Features a split seat design.
-- Equipped with stiffer double valve springs.
-- Uses a lighter crankshaft.
+- Information
+- Observe the road ahead and gather information.
+- Position
+- Adopt the safest road position.
+- Speed
+- Adjust speed before hazards.
+- Gear
+- Select the appropriate gear.
+- Acceleration
+- Accelerate smoothly through and away from hazards.
 
-### Main Strengths
+## Improve Observation Skills
 
-- Excellent wind protection.
-- Comfortable ergonomics.
-- Reliable Honda inline-four engine.
+### Look
 
-### Things to Check Before Buying
+- 12 seconds ahead where possible
+- Through bends
+- At junctions early
+- Frequently in mirrors
 
-- Cam chain tensioner (CCT) wear.
-- Corroded exhaust headers.
-- Regulator/rectifier faults.
+### Always anticipate what could happen next.
+
+- Key Hazard Areas
+- Junctions
+- Roundabouts
+- Pedestrian crossings
+- Parked vehicles
+- Blind bends
+
+## Road Positioning
+
+### Positioning can improve:
+
+- Visibility
+- View ahead
+- Cornering lines
+- Escape routes
+
+### Remember:
+
+- Avoid riding in vehicle blind spots.
+- Maintain a position that gives the best view while remaining visible.
+
+## Cornering Techniques
+
+### When approaching bends:
+
+- Look through the corner.
+- Brake before entering.
+- Select the correct gear.
+- Maintain a steady throttle.
+- Accelerate progressively on exit.
+
+### Common mistake:
+
+- Entering too fast
+
+### Preferred approach:
+
+- Slow in, smooth out
+
+## Riding in Poor Weather
+
+- Rain
+- Increase following distance
+- Reduce speed
+- Avoid harsh braking
+- Be cautious on painted road markings
+- Wind
+- Expect sudden gusts near bridges and large vehicles
+- Fog
+- Slow down
+- Use dipped headlights
+- Increase observation distances
+
+## Defensive Riding
+
+### Assume other road users have not seen the motorcycle.
+
+### Always have:
+
+- Space
+- Visibility
+- An escape route
+
+### Mentally ask:
+
+- What would I do if that vehicle pulled out now?
+
+## Motorway Riding
+
+### When riding on motorways:
+
+- Maintain safe following distances
+- Check mirrors frequently
+- Use shoulder checks before lane changes
+- Avoid prolonged blind-spot riding
+- Long-Distance Riding
+
+### Take breaks every:
+
+- 90-120 minutes
+
+- Fatigue significantly affects reaction times.
+
+## Continue Your Training
+
+- Even experienced riders benefit from advanced training.
+- Additional Support and Training Resources
+- DVSA Motorcycle Guidance
+
+## Additional resources
+
+[The Driver and Vehicle Standards Agency provides official training and testing information.](https://www.gov.uk/ride-motorcycle-moped)
+
+[Highway Code for Motorcyclists](https://www.gov.uk/guidance/the-highway-code)
+
+[IAM RoadSmart](https://www.iamroadsmart.com)
+
+[RoSPA Advanced Riders](https://www.rospa.com)
+
+[BikeSafe](https://bikesafe.co.uk)
