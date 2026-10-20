@@ -1,0 +1,47 @@
+---
+title: "Riding Instructions"
+date: 2026-10-21
+---
+# Honda CBR 600
+
+<p align="center">
+  <img alt="Honda CBR 600"
+       src="https://www.rokform.com/cdn/shop/articles/best-600cc-motorcycle.webp?v=1787673942&width=1024"
+       width="900">
+</p>
+
+## The All-Rounder Path: Honda CBR600F (Sport & Daily)
+
+### If your rides involve real-world commuting, weekend trips, and comfort rather than chasing a 15,500 RPM redline, the CBR600F lineage is the historic sweet spot.
+
+- The Pick of the F-Series: CBR600F4i (2001–2006). This is widely considered the pinnacle of the line. It introduced reliable electronic fuel injection (replacing the carbs of the F4) while retaining a much more humane, upright riding position than any RR bike.
+- The Sport Alternative: CBR600F-Sport (2001–2002). Built as a homologation base for race teams, it features a split seat, stiffer double valve springs, and a lighter crank.
+- Key Strengths: Great wind protection, forgiving ergonomics, bulletproof Honda inline-four reliability.
+- What to Watch Out For: Cam chain tensioner (CCT) wear across older models, aging/corroded exhaust headers, and regulator/rectifier electrical gremlins.
+
+## Honda CBR600F Series Guide
+
+### Best All-Rounder: CBR600F4i (2001–2006)
+
+- Widely regarded as the best model in the F-Series.
+- Introduced reliable electronic fuel injection.
+- More comfortable and upright riding position than the CBR600RR.
+
+### Sportier Choice: CBR600F-Sport (2001–2002)
+
+- Developed as a homologation model for racing.
+- Features a split seat design.
+- Equipped with stiffer double valve springs.
+- Uses a lighter crankshaft.
+
+### Main Strengths
+
+- Excellent wind protection.
+- Comfortable ergonomics.
+- Reliable Honda inline-four engine.
+
+### Things to Check Before Buying
+
+- Cam chain tensioner (CCT) wear.
+- Corroded exhaust headers.
+- Regulator/rectifier faults.
