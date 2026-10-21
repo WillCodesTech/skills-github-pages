@@ -6,7 +6,7 @@ date: 2026-10-21
 
 <p align="center">
   <img alt="Honda CBR 480"
-       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRzSN16PWHQbVGilTtaAQXm5BIBTst5tVfiKfQIkBKg&s=10"
+       src="https://london.acecafe.com/wp-content/uploads/2025/04/mad-sunday-think-bike.jpg"
        width="480">
 </p>
 
